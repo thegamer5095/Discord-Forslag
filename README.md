@@ -13,3 +13,5 @@ Når du har installeret det, og sat det op, starter du bare den fil der hedder "
 Du er nu klar til at bruge botten. For at sende beskeden, med den knap du skal trykke på, skriver du bare "{preix}forslag" i en valgfri kanal.
 
 # Husk at ændre i configgen, så den passer til din server :)
+
+Du kan oprette et token [herinde](https://discord.com/developers/applications)
