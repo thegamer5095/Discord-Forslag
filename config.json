@@ -1,13 +1,9 @@
 {
-    "Token": "OTA1ODkzMzgxMDY1MDE1MzE2.Gt1Sbb.ZQ1ZL3eyEWNdD2G3b1RMH1M_nCmrF9gi_hFEHc",
+    "Token": "Dit-Token-Her", 
     "logo": "",
-    "forslagstitle": "Forslag",
+    "forslagstitle": "Din-Titel-Her",
     "color":"AQUA",
     "prefix": "!",
-    "ticketKategori": "833390562911584307",
-    "staffrole": "839084638503960587",
-    "staffchannel": "833390562911584309",
-    "ticketlogs": "957640455561019442",
-    "forslag": "957640431544434729",
-    "footertext":"tak fordi, du valgte StreetRP"
+    "forslag": "KanalID'et-på-Den-Kanal-Hvor-forslagene-Skal-Indsendes",
+    "footertext":"Din-Footer-Her"
 }
