@@ -1,3 +1,6 @@
+# Discontinued
+Denne bot vil ikke længere blive arbjedet på. Jeg yder derfor ingen former for support. Det er ikke garanteret at den virker!
+
 # Discord-Forslag
 
 Dette er en bot jeg har arbejdet på i et stykke tid.
